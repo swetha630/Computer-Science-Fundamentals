@@ -95,19 +95,6 @@ Whether you're preparing for campus placements, internships, or software enginee
 
 ---
 
-# 🎯 Repository Structure
-
-```text
-CS-Fundamentals/
-
-│── 📄 Object Oriented Programming.pdf
-│── 📄 DBMS Notes.pdf
-│── 📄 Operating System Notes.pdf
-│── 📄 Computer Networking Notes.pdf
-│
-└── README.md
-```
-
 ---
 
 # 🚀 Why This Repository?
@@ -128,19 +115,6 @@ CS-Fundamentals/
 - Computer Science learners
 - Beginners revising CS fundamentals
 - Anyone looking for concise interview notes
-
----
-
-# 🚀 Future Additions
-
-- Data Structures & Algorithms Notes
-- System Design Basics
-- Design Patterns
-- Java Interview Notes
-- Python Interview Notes
-- SQL Cheat Sheet
-- Operating System Case Studies
-- Computer Network Protocol Cheat Sheet
 
 ---
 
