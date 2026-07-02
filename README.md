@@ -108,16 +108,6 @@ Whether you're preparing for campus placements, internships, or software enginee
 
 ---
 
-# 👨‍🎓 Who Is This Repository For?
-
-- Students preparing for campus placements
-- Software Engineering interview candidates
-- Computer Science learners
-- Beginners revising CS fundamentals
-- Anyone looking for concise interview notes
-
----
-
 # 🎯 Learning Outcomes
 
 By studying these notes, readers will gain:
